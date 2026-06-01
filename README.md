@@ -1,6 +1,6 @@
 # osuDecompPro
 
-A small project that enables developers to import a .osu file into an OsuFile object. Developers can ..
+A small project that enables developers to decode .osu files into osuData objects. Developers can ..
 
 * Decode any .osu file into programmable objects
 * Export the modified data into a playable .osu file
